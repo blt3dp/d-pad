@@ -56,3 +56,9 @@ and v1 of this adapter could break your mobo or something.
 * Version: 2
 * PCB size: 18x7.75
 * Layer count: 2
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+Also, here's CRImer's wiring drawing.
+
+![input-shim image](../../Images/input-shim.png)
