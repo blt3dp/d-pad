@@ -30,3 +30,6 @@ If you are using this for system power and monitor power, DO NOT bridge the jump
 
 attach a 4 conductor wire.
 
+Here's what you should end up with when completed.
+
+![button-pcb image](../../Images/button-pcb.jpeg)
