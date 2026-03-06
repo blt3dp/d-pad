@@ -12,3 +12,6 @@ Have these boards made by a PCB manufacturer of your choice.  Solder on a FH36W-
 
 as well as a 2 conductor wire
 
+Here's what you should end up with when completed.
+
+![joycon-charge-pcb image](../../Images/joycon-charge-pcb.jpeg)
