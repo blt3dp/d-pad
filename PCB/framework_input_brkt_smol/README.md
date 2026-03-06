@@ -30,7 +30,7 @@ It is designed to fit inside the outline of the input connector FPC plug,
 within the motherboard outline, so that it can easily be added to existing designs.
 
 For wire connections, this shim uses THT holes, since it's relatively easy to rip
-an SMD pad off the board by pulling on a wire. This [requires some kapton fixes](https://twitter.com/FairywrenTech/status/1559150268557795331)
+an SMD pad off the board by pulling on a wire. This [requires some kapton fixes](../../Images/input-kapton.jpeg)
 during assembly, however.
 
 Markings on the PCB: "FrmW input brkt" (shortened because the board has to be very small)
