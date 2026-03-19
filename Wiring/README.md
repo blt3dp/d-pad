@@ -1,1 +1,1 @@
-![wiring image](../Images/wiring.jpeg)
+![wiring image](../Images/wiring_v2.jpeg)
