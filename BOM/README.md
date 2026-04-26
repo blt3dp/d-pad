@@ -41,9 +41,15 @@ power-button.stl
 (2) M3x16 Button Head Cap Screws  
 (4) M3x20 Button Head Cap Screws  
 
+### Other (Required)
+(1) Scotch Mount Double Sided Tape [https://www.amazon.com/dp/B0007P5G8Y](https://www.amazon.com/dp/B0007P5G8Y)
+(1) 1/4" Kapton Tape [https://www.amazon.com/dp/B07RL12SGF](https://www.amazon.com/dp/B07RL12SGF)
+Misc Tape
+
 # Optional Features
 All optional features require wire.  https://www.amazon.com/dp/B07PPT11QN  
 All optional features require screws. https://www.ebay.com/itm/144381124719  
+All optional features require solder.
 
 ## Power Button for Display
 
