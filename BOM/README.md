@@ -6,8 +6,8 @@ Below is a listing of all the parts required to build a D-Pad as well as the par
 ### Choose at least one external USB connector. The rest are optional.
 
 Docking Connector - ADT Link T6A-T8T-NC, 30cm [https://www.aliexpress.us/item/3256804442407128.html](https://www.aliexpress.us/item/3256804442407128.html)  
-Left Expansion Port Connector - ADT Link T7B-T6A, 15 cm [https://www.aliexpress.us/item/3256805100333291.html](https://www.aliexpress.us/item/3256805100333291.html)  
-Right Expansion Port Connector - ADT Link T7B-T6A, 15 cm [https://www.aliexpress.us/item/3256805100333291.html](https://www.aliexpress.us/item/3256805100333291.html)
+Left Expansion Port Connector - ADT Link T7B-T6A, 15cm [https://www.aliexpress.us/item/3256805100333291.html](https://www.aliexpress.us/item/3256805100333291.html)  
+Right Expansion Port Connector - ADT Link T7B-T6A, 15cm [https://www.aliexpress.us/item/3256805100333291.html](https://www.aliexpress.us/item/3256805100333291.html)
 
 ### Plastics (Required) - See STL folder
 casing-front.stl  
