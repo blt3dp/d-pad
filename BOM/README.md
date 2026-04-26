@@ -36,6 +36,7 @@ power-button.stl
 (1) Joycon Rail Set (remove flex cables if not doing optional charging) [https://www.amazon.com/dp/B08CZ1DD83](https://www.amazon.com/dp/B08CZ1DD83)  
 (15) M3x5x4 Brass Heatset Insert [https://www.amazon.com/dp/B0CDH36ZMX](https://www.amazon.com/dp/B0CDH36ZMX)  
 (11) M1.6x2.5x4 Brass Heatset Insert [https://www.amazon.com/dp/B07TTQXVQH](https://www.amazon.com/dp/B07TTQXVQH)  
+(2) M5 Flat Washers
 (3) M3x10 Button Head Cap Screws  
 (2) M3x16 Button Head Cap Screws  
 (4) M3x20 Button Head Cap Screws  
