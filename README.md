@@ -19,7 +19,6 @@ I recommend watching it completely at least once to get an idea of how D-Pad is 
 You'll find all the information you need to build one in this repository.
 
 ## Pics
-![tabletop_starting_image](/Images/tabletop_starting.jpg)
 ![tabletop_steam_image](/Images/tabletop_steam.jpg)
 ![controllers_docked_image](/Images/controllers_docked.jpg)
 ![angle_image](/Images/angle.jpg)
