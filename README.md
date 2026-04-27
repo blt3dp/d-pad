@@ -13,7 +13,7 @@ Kickstand
 Additional expansion provisions
 
 ## Building Your Own
-The build process is outlined in a YouTube video (link to video)
+The build process is outlined in a YouTube video [https://www.youtube.com/watch?v=xQa__ukKvmM](https://www.youtube.com/watch?v=xQa__ukKvmM)  
 I recommend watching it completely at least once to get an idea of how D-Pad is assembled.
 
 You'll find all the information you need to build one in this repository.
